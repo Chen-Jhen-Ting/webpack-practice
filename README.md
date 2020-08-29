@@ -1,5 +1,6 @@
 # webpack-practice
-
+# [頁面連結](https://chen-jhen-ting.github.io/webpack-practice/)
+https://chen-jhen-ting.github.io/webpack-practice/
 # 作品資訊
 在這裡可以點選按鈕顯示一次或三次現在的時間，
 時間訊息出現的過程會像是打字一樣逐字出現
